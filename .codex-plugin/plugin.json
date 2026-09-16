@@ -1,0 +1,18 @@
+{
+  "name": "karl-task-log",
+  "version": "0.1.0",
+  "description": "Log, update, and report Karl's work tasks in a shared Google Sheet.",
+  "author": {
+    "name": "Karl Ennis"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Karl Task Log",
+    "shortDescription": "Track tasks, time, requesters, and status.",
+    "longDescription": "Maintain Karl's shared task register in Google Sheets from ChatGPT or Codex.",
+    "developerName": "Karl Ennis",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Open Karl Task Log and show my active tasks."
+  }
+}
